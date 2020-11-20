@@ -4,7 +4,7 @@
 
   * This is a Content Management System where the user can interact with an employee database.
 
-  * A demo video is located in the 'assets' foler.
+  * Demo video link: https://drive.google.com/file/d/1KaaDrqrqhKRz1_qvp0xdGCZYf_hojspF/view
   
 ## Installation
 
